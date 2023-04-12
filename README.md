@@ -1,6 +1,6 @@
 <!-- @format -->
 
-my implementation of nand2tetris(https://www.nand2tetris.org/), a project where you build a 16 bit computer from the ground up, starting with a NAND gate.
+my implementation of [nand2tetris](https://www.nand2tetris.org/), a project where you build a 16 bit computer from the ground up, starting with a NAND gate.
 
 A journey begins!!
 
